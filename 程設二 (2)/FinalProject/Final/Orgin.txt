@@ -1,0 +1,9 @@
+BackGround: 
+1.PixelGameArt
+	http://pixelgameart.org/web/
+BGM:
+1.甘茶的音樂工房 
+	http://amachamusic.chagasi.com/
+SFX:
+1.小森平的免費音效
+	http://taira-komori.jpn.org/game01tw.html
